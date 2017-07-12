@@ -59,6 +59,7 @@ Maintainer: Miguel Luis and Gregory Cristian
   */
 
 /* Includes ------------------------------------------------------------------*/
+/*test commit 12.07.2017 */
 #include <string.h>
 #include "hw.h"
 #include "radio.h"
