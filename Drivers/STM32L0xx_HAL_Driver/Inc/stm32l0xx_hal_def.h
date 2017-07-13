@@ -60,8 +60,8 @@ typedef enum
   HAL_ERROR    = 0x01U,
   HAL_BUSY     = 0x02U,
   HAL_TIMEOUT  = 0x03U
-} HAL_StatusTypeDef;
 
+} HAL_StatusTypeDef;
 /** 
   * @brief  HAL Lock structures definition  
   */
